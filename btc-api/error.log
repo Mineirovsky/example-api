@@ -1,0 +1,10 @@
+2016-07-29 06:52 BitcoinAPI::getBillByAddr SQLite: row not found [called @ C:\projects\btc-api\btc-api.inc.php]
+2016-07-29 06:53 BitcoinAPI::getBillByAddr SQLite: row not found [called @ C:\projects\btc-api\btc-api.inc.php]
+2016-07-29 06:53:50 BitcoinAPI::getBillByAddr SQLite: row not found [called @ C:\projects\btc-api\btc-api.inc.php]
+2016-07-29 06:54:12 BitcoinAPI::getBillByAddr SQLite: row not found [called @ C:\projects\btc-api\btc-api.inc.php]
+[2016-07-29 06:55:40] BitcoinAPI::getBillByAddr SQLite: row not found [called @ C:\projects\btc-api\btc-api.inc.php]
+[2016-07-29 06:56:10] BitcoinAPI::getBillByAddr SQLite: row not found (called @ C:\projects\btc-api\btc-api.inc.php)
+[2016-07-29 07:31:02] BitcoinAPI::getBillByAddr SQLite: row not found (called @ C:\projects\btc-api\btc-api.inc.php)
+[2016-07-29 07:31:31] Callback: valor pago incorreto (called @ C:\projects\btc-api\btc-api.inc.php)
+[2016-07-29 07:32:21] Callback: valor pago incorreto (called @ C:\projects\btc-api\btc-api.inc.php)
+[2016-07-29 15:17:43] BitcoinAPI::getBillByAddr SQLite: row not found (called @ C:\projects\btc-api\btc-api.inc.php)
